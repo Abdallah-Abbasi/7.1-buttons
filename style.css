@@ -1,0 +1,77 @@
+h2{
+    color: white;
+}
+body{
+    background-color: darkslategrey;
+}
+button {
+    border: none;
+    margin-right: 10px;
+}
+
+section {
+    width: 300px;
+    margin: auto;
+}
+
+.btn-primary {
+    background-color: rgb(0, 183, 255);
+    color: white;
+    padding: 5px 10px;
+
+}
+button:hover {
+    color: lightgray;
+}
+
+.btn-yellow {
+    background-color: gold;
+    color: white;
+    padding: 2px 10px;
+}
+
+.btn-green {
+    border-radius: 10px;
+    background-color: greenyellow;
+    color: white;
+    padding: 10px 20px;
+}
+
+.btn-red {
+    border-radius: 10px;
+    background-color: rgb(247, 98, 98);
+    color: white;
+}
+
+.btn-red-ghost{
+    border: 1px solid rgb(255, 108, 108);
+    background-color: transparent;
+    color: white;
+    font-weight: 900;
+    padding: 5px 10px;
+}
+.btn-pink-ghost{
+    border: 1px solid rgb(255, 108, 157);
+    background-color: transparent;
+    color: white;
+    font-weight: 900;
+    padding: 2px 10px;
+}
+
+.btn-yellow-ghost{
+    border: 1px solid rgb(248, 255, 108);
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+    font-weight: 900;
+    padding: 10px 10px;
+}
+
+.btn-aqua-ghost{
+    border: 1px solid rgb(108, 253, 255);
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+    font-weight: 900;
+    padding: 2px 10px;
+}
